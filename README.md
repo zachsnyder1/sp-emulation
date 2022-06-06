@@ -1,7 +1,7 @@
 # Introduction
 
-This is a side-project from 2018 that I built as a wedding present for my friend
-in 2018. It was inspired by a festival tent that he, his fiance, and I discovered
+This is a side-project from 2018 that I built as a wedding present for my friend.
+It was inspired by a festival tent that he, his fiance, and I discovered
 one night called the "Sound Puddle," designed by an artist based in Longmont, CO.
 The Sound Puddle is microcontroller-based contraption that maps sound frequencies
 onto light frequencies, and sends blips of colors dripping down an LED string.

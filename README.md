@@ -7,7 +7,7 @@ The Sound Puddle is microcontroller-based contraption that maps sound frequencie
 onto light frequencies, and sends blips of colors dripping down an LED string.
 
 You can view the functioning of the assembled emulation on
-[YouTube](youtu.be/m5dzctOYbeE)
+[YouTube](http://youtu.be/m5dzctOYbeE)
 
 In the video I tested on an Arduino Uno, but switched to a Teensy++ 2.0 board
 when soldering. The Teensy board is smaller, and fit better in the enclosure.
